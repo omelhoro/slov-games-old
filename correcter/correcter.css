@@ -1,0 +1,26 @@
+.corrector{
+    background-color: #AAAAAA;
+}
+
+
+#exercises{
+	line-height: 160%;
+}
+span{
+	display: block;
+}
+.hidden{
+    visibility: hidden;
+}
+.false{
+    color: white;
+    background-color: #F76548;
+}
+.right{
+    color: white;
+    background-color: #72B42D;
+    
+}
+#tsk_de{
+	visibility: hidden;
+}

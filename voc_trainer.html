@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Vokabeln-Coach</title>
+        <link rel="stylesheet" href="voc_trainer/voc_trainer.css" type="text/css" />
+        <link rel="stylesheet" href="static/ui-themes/smoothness/jquery-ui-1.10.0.custom.css" type="text/css" />
+
+        <script src="static/jquery.js"></script>
+        <script src="static/jquery-ui.js"></script>
+        <script src="voc_trainer/voc_trainer_db.js"></script>
+        <script src="voc_trainer/voc_trainer.js"></script>
+    </head>
+    <body>
+        <div id="wrap">
+        <h3>Vokabeltrainer für Slowenisch</h3>
+        <div id="options">
+        <p>Wählen Sie zuerst Lektionen aus, aus denen Sie die Vokabeln trainieren möchten:<br />
+        <p id="les_choice">
+            <a class="select" id="select_all"href="">Select all</a>
+            <a class="select" id="unselect_all" href="">Unselect all</a>
+       
+        </p>
+        <p>Wenn Sie fertig sind, klicken Sie auf <button id="start">Start!</button></p>
+        </div>
+        <p>Modus:<br />
+            <input type="radio" name="modus" value="input" checked />Input<br />
+            <input type="radio" name="modus" value="mult" />Multiple Choice (Gut für Änfänger)
+            </p>
+        <p><button id="next_word" class="voc_trainer_controller" disabled>Nächstes Wort!</button></p>
+        <span class="word">Das Wort zu übersetzen</span>:
+        <div id="input"> <input class="translation"/> </div>
+        
+        <div id="mult"><br />
+            <input type="radio" name="word_ops" value="op1" checked /><span id="op1">Option 1</span><br />
+            <input type="radio" name="word_ops" value="op2" /><span id="op2">Option 2</span><br />
+            <input type="radio" name="word_ops" value="op3" /><span id="op3">Option 3</span>
+            </div>
+        
+        <p><button id="check" class="voc_trainer_controller" disabled>Check</button></p>
+                </div>
+        <div id="history_right" class="history" ><h3>Richtig</h3></div>
+        <div id="history_false"class="history" ><h3>Falsch</h3></div>
+    </body>
+    
+</html>

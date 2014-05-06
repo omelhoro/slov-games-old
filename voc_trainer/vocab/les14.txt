@@ -1,0 +1,95 @@
+- alpska dolina 			Alpental
+- ena izmed najlepših 			- eine der schönsten
+- glavno mesto 			- Hauptstadt
+- Jadransko morje 			- Adriatisches Meer
+- mejni prehod 			Grenzübergang
+- na jugu 			- im Süden
+- Severno morje 			- Nordsee
+- sosednja država 			- Nachbarstaat
+Alpe (-ø) 	Substantiv 	f/Pl 	Alpen
+alpski, -a, -o 	Adjektiv 		Alpen-
+Avstrija (-e) 	Substantiv 	f 	Österreich
+boljši, -a, -e 	Adjektiv 		besser
+celo 	Adverb 		sogar
+član (-a) 	Substantiv 	m 	Mitglied
+da 	Konjunktion 		dass
+daljši, -a, -e 	Adjektiv 		länger
+danes 	Adverb 		heute
+dober, -bra, -o 	Adjektiv 		gut
+dolg, -a, -o 	Adjektiv 		lang
+dolina (-e) 	Substantiv 	f 	Tal
+država (-e) 	Substantiv 	f 	Staat
+Evropski, -a, -o 	Adjektiv 		europäisch
+glavni, -a, -o 	Adjektiv 		Haupt-
+gora (-e) 	Substantiv 	f 	Berg
+gost (-a) 	Substantiv 	m 	Gast
+Italija (-e) 	Substantiv 	f 	Italien
+izmed 	Präposition, Gen 		unter
+jadranski, -a, -o 	Adjektiv 		Adria-
+jama (-e) 	Substantiv 	f 	Höhle, Grotte
+jezik (-a) 	Substantiv 	m 	Sprache
+jug (-a) 	Substantiv 	m 	Süd
+jugozahod (-a) 	Substantiv 	m 	Südwesten
+kot 	Konjunktion 		als, wie
+lepši, -a, -e 	Adjektiv 		schöner
+ležati, leži 	Verb, impf 		liegen
+ljudje (ljudi) 	Substantiv 	m/Pl 	Leute (Pl. von Mensch)
+manjši, -a, -e 	Adjektiv 		kleiner
+meja (-e) 	Substantiv 	f 	Grenze
+mejni, -a, -o 	Adjektiv 		Grenz-
+meriti, -i 	Verb, impf 		messen
+mesto (-a) 	Substantiv 	n 	Stadt
+meter (-tra) 	Substantiv 	m 	Meter
+mlad, -a, -o 	Adjektiv 		jung
+mlajši, -a, -e 	Adjektiv 		jünger
+močnejši, -a, -e 	Adjektiv 		stärker
+moder, -dra, -o 	Adjektiv 		blau
+mogočen, -čna, -o 	Adjektiv 		gewaltig
+morje (-a) 	Substantiv 	n 	Meer
+nizek, -a, -o 	Adjektiv 		niedrig
+nižji, -a, -e 	Adjektiv 		niedriger
+odprt, -a, -o 	Adjektiv 		offen
+okrog 	Adverb 		etwa
+pijača (-e) 	Substantiv 	f 	Getränk
+pivo (-a) 	Substantiv 	n 	Bier
+podzemski, -a, -o 	Adjektiv 		unterirdisch
+pohvaliti se, -i se 	Verb, pf 		sich rühmen
+pokrajinsko 	Adverb 		landschaftlich
+polnopraven, -vna, -o 	Adjektiv 		vollberechtigt
+ponosen, -a, -o 	Adjektiv 		stolz
+povabiti, -i 	Verb, pf 		einladen
+pragozd (-a) 	Substantiv 	m 	Urwald
+pravi, -a, -o 	Adjektiv 		echt
+prebivalec (-lca) 	Substantiv 	m 	Einwohner
+prebivalka (-e) 	Substantiv 	f 	Einwohnerin
+prehod (-a) 	Substantiv 	m 	Übergang
+približno 	Adverb 		ungefähr
+prometen, -tna, -o 	Adjektiv 		verkehrsreich
+prometnejši, -a, -e 	Adjektiv 		verkehrsreicher
+rad, -a, -o 	Adverb 		gern
+ravnina (-e) 	Substantiv 	f 	Ebene
+raznolik, -a, -o 	Adjektiv 		vielfältig
+rdeč, -a, -e 	Adjektiv 		rot
+severni, -a, -o 	Adjektiv 		Nord-
+severovzhod (-a) 	Substantiv 	m 	Nordosten
+severozahod (-a) 	Substantiv 	m 	Nordwesten
+sicer 	Konjunktion 		ansonsten
+slovensko-hrvaški, -a, -o 	Adjektiv 		slowenisch-kroatisch
+sosednji, -a, -e 	Adjektiv 		Nachbar-
+središče (-a) 	Substantiv 	n 	Zentrum
+star, -a, -o 	Adjektiv 		alt
+starejši, -a, -e 	Adjektiv 		älter
+ta, ta, to 	Demonstrativpronomen 		dieser, diese, dieses
+toliko 	Adverb 		so viel
+tuj, -a, -e 	Adjektiv 		fremd
+unija (-e) 	Substantiv 	f 	Union
+uspešen, -šna, -o 	Adjektiv 		erfolgreich
+uspešnejši, -a, -e 	Adjektiv 		erfolgreicher
+večji, -a, -e 	Adjektiv 		größer
+vedeti, ve 	Verb/impf 		wissen
+velik, -a, -o 	Adjektiv 		groß
+visok, -a, -o 	Adjektiv 		hoch
+vsi, vse, vsa 	Pronomen / Pl 		alle
+zanimiv, -a, -o 	Adjektiv 		interessant
+zanimivejši, -a, -e 	Adjektiv 		interessanter
+zelo 	Adverb 		sehr

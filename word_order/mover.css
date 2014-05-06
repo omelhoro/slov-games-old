@@ -1,0 +1,18 @@
+body {
+
+}
+
+.droppable{
+    width: 20px;
+    height: 20px;
+    background-color: #CCCCCC;
+}
+#draggable_clitic{
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+}
+
+ul { list-style-type: none; margin: 0; padding: 0; margin-bottom: 0px; }
+li {display: inline-block; padding: 5px 5px;margin: 0px 5px}
+span {display: inline-block;}

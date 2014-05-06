@@ -1,0 +1,105 @@
+- fílmske kulíse 			- Filmkulissen
+- na kôncu 			- am Ende
+- pótniška ládja 			- Passagierschiff
+- z veseljem 			- gerne
+- zgodovinski muzej 			- Geschichtsmuseum
+bábica (-e) 	Substantiv 	f 	Oma
+besedílo (-a) 	Substantiv 	n 	Text
+cénter (-tra) 	Substantiv 	m 	Zentrum
+čàs (čása) 	Substantiv 	m 	Zeit
+Číle (-a) 	Substantiv 	m 	Chile
+dédek (-dka) 	Substantiv 	m 	Opa
+délo (-a) 	Substantiv 	n 	Arbeit
+dobíti se, -ì se 	Verb, pf 		sich treffen
+dólgčas (-a) 	Substantiv 	m 	Langeweile
+fílmski -a, -o 	Adjektiv 		Film-
+Francóz (-a) 	Substantiv 	m 	Franzose
+harmónika (-e) 	Substantiv 	f 	Akkordeon
+hodíti, hódi 	Verb, impf 		(herum) gehen
+izlèt (-éta) 	Substantiv 	m 	Ausflug
+jákna (-e) 	Substantiv 	f 	Jacke
+jesén (-i) 	Substantiv 	f 	Herbst
+jeséni 	Adverb 		im Herbst
+kljúb tému 	Konjunktion 		trotzdem
+ko 	Konjunktion 		als
+kônec (-nca) 	Substantiv 	m 	Ende
+kônjski -a, -o 	Adjektiv 		Pferde-
+kulísa (-e) 	Substantiv 	f 	Kulisse
+kupíti, kúpi 	Verb, impf 		kaufen
+ládja (-e) 	Substantiv 	f 	Schiff
+láni 	Adverb 		voriges Jahr
+létos 	Adverb 		in diesem Jahr
+ljubljánski -a, -o 	Adjektiv 		Ljubljanaer
+lúksuzen -zna, -o 	Adjektiv 		Luxus-
+málica (-e) 	Substantiv 	f 	Imbiss
+mornárski -a, -o 	Adjektiv 		Matrosen-
+nastòp (-a) 	Substantiv 	m 	Auftritt
+nastópati -a 	Verb, impf 		auftreten
+nék -a, -o 	Pronomen 		ein (gewisser), eine (gewisse), ein (gewisses)
+nekóč 	Adverb 		früher
+nikóli 	Adverb 		nie
+obísk (-a) 	Substantiv 	m 	Besuch
+obiskáti, obíšče 	Verb, pf 		besuchen
+oblíka (-e) 	Substantiv 	f 	Form
+odlíčno 	Adverb 		ausgezeichnet
+oglédati si, -a si 	Verb, pf 		sich anschauen
+okúsen -sna, -o 	Adjektiv 		lecker
+opisováti, -úje 	Verb, impf 		beschreiben
+opráviti, -i 	Verb, pf 		machen, erledigen
+park-a 	Substantiv 	m 	Park
+peljati, pelje 	Verb, imp 		bringen, führen
+pesem-smi 	Substantiv 	f 	Gedicht, Lied
+pokazati, pokaže 	Verb, pf 		zeigen
+postati, postane 	Verb, pf 		werden
+potem 	Adverb 		danach
+potepanje-a 	Substantiv 	n 	Bummel
+potniški-a, -o 	Adjektiv 		Passagier-
+povabiti, povabi 	Verb, pf 		einladen
+povedati, pove 	Verb, pf 		erzählen
+predavanje-a 	Substantiv 	n 	Vorlesung
+prepevati, -a 	Verb, imp 		singen
+prevajanje-a 	Substantiv 	n 	Übersetzungsarbeit
+prevajati, -a 	Verb, imp 		übersetzen
+preživeti, -i 	Verb, pf 		verbringen
+pri 	Präposition + Lok 		bei
+prikazan-a, -o 	Partizip 		dargestellt
+pristanišče-a 	Substantiv 	n 	Hafen
+prost-a,-o 	Adjektiv 		frei
+razstava-e 	Substantiv 	f 	Ausstellung
+rep-a 	Substantiv 	m 	Schwanz
+res 	Adverb 		echt
+ribji-a, -e 	Adjektiv 		Fisch-
+saj 	Konjunktion 		denn
+sestrična-e 	Substantiv 	f 	Cousine
+skladišče-a 	Substantiv 	n 	Lager
+slika-e 	Substantiv 	f 	Bild
+sosed-eda 	Substantiv 	m 	Nachbar
+sprehod-oda 	Substantiv 	m 	Spaziergang
+stanovati-uje 	Verb, imp 		wohnen
+stati,stoji 	Verb, imp 		stehen
+še 	Adverb 		noch
+tam 	Adverb 		dort
+teden-dna 	Substantiv 	m 	Woche
+tja 	Adverb 		dorthin
+torba-e 	Substantiv 	f 	Tasche
+trgovina-e 	Substantiv 	f 	Geschäft
+učiti-i 	Verb, imp 		unterrichten
+uporabiti-i 	Verb, pf 		verwenden
+uporabljati-a 	Verb, imp 		verwenden
+urnik-a 	Substantiv 	m 	Stundenplan
+včasih 	Adverb 		manchmal
+večkrat 	Adverb 		öfter
+vedno 	Adverb 		immer
+veliko 	Adverb 		viel
+veselje-a 	Substantiv 	n 	Freude
+videti, vidi 	Verb, imp und pf 		sehen
+zahajati-a 	Verb, imp 		hingehen
+zahteven-vna, -o 	Adjektiv 		anspruchsvoll
+zanimiv-a, -o 	Adjektiv 		interessant
+zapolnjen-a, -o 	Adjektiv 		voll
+zdaj 	Adverb 		jetzt
+zelo 	Adverb 		sehr
+zgodba-e 	Substantiv 	f 	Geschichte
+zgodovinski-a, -o 	Adjektiv 		Geschichts-
+znamenitost-i 	Substantiv 	f 	Sehenswürdigkeit
+živeti-i 	Verb, imp 		leben

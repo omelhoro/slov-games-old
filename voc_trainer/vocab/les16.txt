@@ -1,0 +1,22 @@
+brálec, -lca 	Substantiv 	m 	Leser
+článek, -a 	Substantiv 	m 	Artikel
+dél, -a 	Substantiv 	m 	Teil
+doséči, doséže 	Verb, pf 		erreichen
+izdajátelj, -a 	Substantiv 	m 	Herausgeber
+jêzik, -íka 	Substantiv 	m 	Sprache
+knjižévnost, -i 	Substantiv 	f 	Literatur
+monografíja, -e 	Substantiv 	f 	Monographie
+nagráda-e 	Substantiv 	f 	Preis, Prämie
+držávna nagráda, -e, -e 	Adjektiv/Substantiv 	f 	Staatspreis
+obségati, -a 	Verb, impf 		umfassen
+odločíti se, odlóči se 	Verb, pf 		sich entscheiden
+ópus, -a 	Substantiv 	m 	Werk
+pisátelj, -a 	Substantiv 	m 	Schriftsteller
+podelíti, -í 	Verb, pf 		verleihen
+poglávje, -a 	Substantiv 	n 	Kapitel
+pogósto 	Adverb 		oft
+póleg 	Präposition, Gen 		neben
+ponudíti, ponúdi 	Verb, pf 		anbieten
+posredovánje, -a 	Substantiv 	n 	Vermittlung
+posvéčati se, -a se 	Verb, impf 		sich widmen
+povzročíti, povzročí 	Verb, pf 		verursachen

@@ -1,0 +1,46 @@
+td{
+     width: 130px;
+     height: 40px;
+    
+}
+td.missing{
+    background-color: #F6F6F6;
+}
+.header td:not(:first-child){
+    background-color: #CCCCCC;
+    text-align: center;
+    
+}
+#freq_pars{
+    width: 300px;
+}
+.ui-icon{
+    margin: 0 auto;
+    background-color: #66FFFF;
+    border-radius: 15px;
+}
+.case#nom{
+    background-color: #69F59F;
+}
+.case#gen{
+    background-color: #FFFF00;
+}
+.case#dat{
+    background-color: #DC4AF0;
+}
+.case#acc{
+    background-color: #FA3939;
+}
+.case#loc{
+    background-color: #66FFFF;
+}
+.case#ins{
+    background-color: #4792FC;
+}
+
+
+.case{
+     width: 60px ; 
+    text-align: right;
+    padding-right: 5px;
+}

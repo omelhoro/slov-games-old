@@ -1,0 +1,43 @@
+bankomat (-a) 	Substantiv 	m 	Geldautomat
+blizu 	Adverb 		in der Nähe
+cerkev (-kve) 	Substantiv 	f 	Kirche
+čevelj (-vlja) 	Substantiv 	m 	Schuh
+filharmonija (-e) 	Substantiv 	f 	Philharmonie
+hoditi, hodi 	Verb, impf 		gehen
+hodnik (-a) 	Substantiv 	m 	Flur
+iskati , išče 	Verb, impf 		suchen
+jug (-a) 	Substantiv 	m 	Süden
+kiosk (-a) 	Substantiv 	m 	Kiosk
+kje 	Interrogativpronomen 		wo
+kopalnica (-e) 	Substantiv 	f 	Bad
+kuhinja (-e) 	Substantiv 	f 	Küche
+lekarna (-e) 	Substantiv 	f 	Apotheke
+magistrat (-a) 	Substantiv 	m 	Rathaus
+most (-u) 	Substantiv 	m 	Brücke
+na 	Präposition +Lok 		auf, an
+neznanec (-nca) 	Substantiv 	m 	Unbekannte
+no 	Interjektion 		na
+o 	Präposition + Lok 		über
+ob 	Präposition + Lok 		neben
+oprostiti, -i 	Verb, pf 		entschuldigen, verzeihen
+po 	Präposition +Lok 		auf, herum
+počitnice (-ø) 	Substantiv, pl 	f 	Ferien
+predal (-a) 	Substantiv 	m 	Schublade
+pri 	Präposition + Lok 		bei
+pulover (-ja) 	Substantiv 	m 	Pullover
+sever (-a) 	Substantiv 	m 	Norden
+spodaj 	Adverb 		unten
+spomenik (-a) 	Substantiv 	m 	Denkmal
+stol (-a) 	Substantiv 	m 	Stuhl
+stran (-i) 	Substantiv 	f 	Seite
+stvar (-i) 	Substantiv 	f 	Sache
+tam 	Adverb 		dort
+tisti, -a, -o 	Demonstrativpronomen 		dieser, diese, dieses
+trgovína (-e) 	Substantiv 	f 	Geschäft
+úlica (-e) 	Substantiv 	f 	Straße
+v 	Präposition + Lok 		in
+vídeti, -i 	Verb, impf / pf 		sehen
+vzhòd (-óda) 	Substantiv 	m 	Osten
+začéti, -čnè 	Verb, pf 		anfangen, beginnen
+zahòd (-óda) 	Substantiv 	m 	Westen
+želézniška postája (-e, -e) 	Adjektiv 		Bahn-Bahnhof

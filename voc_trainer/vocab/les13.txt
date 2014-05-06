@@ -1,0 +1,59 @@
+- književni problem 			- Literaturproblem
+- Lahko greš zraven. 			- Du kannst mitkommen.
+- v njem 			- darin
+čas (-a) 	Substantiv 	m 	Zeit
+časopis (-a) 	Substantiv 	m 	Zeitung
+črn -a, -o 	Adjektiv 		schwarz
+do 	Präposition, Gen. 		nach
+domov 	Adverb 		nach Hause
+esej (-a) 	Substantiv 	m 	Essay
+fakulteta (-e) 	Substantiv 	f 	Fakultät
+galerija (-e) 	Substantiv 	f 	Galerie
+govoriti, -i 	Verb, impf 		erzählen
+hoditi, -i 	Verb, impf 		gehen
+iti, gre 	Verb, impf/pf 		gehen
+iz 	Präposition, Gen. 		aus, von
+izlet (-a) 	Substantiv 	m 	Ausflug
+jutri 	Adverb 		morgen
+kam 	Interrogativpronomen 		wohin
+ker 	Konjunktion 		weil
+književen -vna, -o 	Adjektiv 		Literatur-
+krompir (-ja) 	Substantiv 	m 	Kartoffel
+kruh (-a) 	Substantiv 	m/Sg 	Brot
+kuhinja (-e) 	Substantiv 	f 	Küche
+kulturni -a, -o 	Adjektiv 		Kultur-
+lahko 	Modalwort 		können, kann
+leto (-a) 	Substantiv 	n 	Jahr
+mesec (-a) 	Substantiv 	m 	Monat
+napisati, napiše 	Verb, pf 		schreiben
+naslednji -a, -e 	Adjektiv 		der, die, das nächste
+nemščina (-e) 	Substantiv 	f 	deutsche Sprache
+o 	Präposition, Lok. 		über
+obljubiti, -i 	Verb, pf 		versprechen
+organizirati, -a 	Verb, impf/pf 		organisieren
+pa 	Partikel 		denn
+pisatelj (-a) 	Substantiv 	m 	Schriftsteller
+postelja (-e) 	Substantiv 	f 	Bett
+pot (-i) 	Substantiv 	f 	Weg
+potovanje (-a) 	Substantiv 	n 	Reise
+povedati, pove 	Verb, pf 		sagen
+prav 	Adverb 		in Ordnung
+problem (-a) 	Substantiv 	m 	Problem
+profesor (-ja) 	Substantiv 	m 	Professor
+seveda 	Adverb 		natürlich
+slab -a, -o 	Adjektiv 		schlecht
+slovenski -a, -o 	Adjektiv 		slowenisch
+špaget (-a) 	Substantiv 	m 	Spaghetti
+ta, ta, to 	Demonstrativpronomen, m/f/n 		dieser, diese, dieses
+tam 	Adverb 		dort
+upati, -a 	Verb, impf 		hoffen
+v 	Präposition, Akk. 		in
+veseliti se, -i se 	Verb, impf 		sich freuen
+vreme (-mena) 	Substantiv 	n 	Wetter
+zakaj 	Adverb 		warum
+zanimivo 	Adverb 		interessant
+zgodaj 	Adverb 		früh
+znan -a, -o 	Adjektiv 		bekannt
+zraven 	Präposition, Gen. 		daneben, mit-
+zrezek (-zka) 	Substantiv 	m 	Schnitzel
+že 	Adverb 		schon

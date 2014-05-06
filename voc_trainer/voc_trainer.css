@@ -1,0 +1,15 @@
+
+.history{
+    float:left;
+    text-align: center;
+    width: 150px;
+}
+
+td{
+	padding-left: 10px;
+
+}
+
+#history_right{
+    border-right: 1px solid black;
+}

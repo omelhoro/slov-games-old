@@ -1,0 +1,52 @@
+.noun{
+border: 1px solid black;
+}
+
+.selected{
+    border: 2px dashed black;
+}
+
+body{
+    width: 800px;
+}
+
+body{
+    line-height: 170%;
+}
+img{
+    width: 200px;
+}
+
+.case{
+    display:block;
+    width: 100px;
+}
+
+.nom{
+    background-color: #69F59F;
+}
+.gen{
+    background-color: #FFFF00;
+}
+.dat{
+    background-color: #DC4AF0;
+}
+.acc{
+    background-color: #FA3939;
+}
+.loc{
+    background-color: #0EF0EC;
+}
+.ins{
+    background-color: #4792FC;
+}
+
+.false{
+    border: 2px solid #FF0000;
+    
+}
+.correct{
+    border: 2px solid #008000;
+    
+}
+

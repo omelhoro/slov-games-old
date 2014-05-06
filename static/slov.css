@@ -1,0 +1,88 @@
+#wrap{
+    font-family: "DejaVu Sans", Arial, Helvetica, sans-serif;
+    width: 800px;
+    margin: 0 auto ;
+}
+
+.false{
+    color:red;
+ }
+.right{
+    color:green;
+ }
+.even{
+    background-color:#ccc;
+}
+
+#flag{
+    height: 150px;
+    position: relative;
+}
+h2{
+    background-color: lightgreen;
+    border-bottom: 1px solid black; 
+    border-top: 1px solid black; 
+}
+h3{
+    background-color: lightyellow;
+    border-bottom: 1px solid black; 
+    border-top: 1px solid black; 
+}
+
+table{
+    margin-top: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    border-collapse: collapse;
+}
+th, td {
+  text-align: left;
+  padding: 2px 4px;
+}
+
+span#au{
+    display: inline-block;
+}
+
+
+nav ul.navbar li {
+    padding: 7px 15px 3px 15px;
+    background-color: lightblue;
+  display: block;
+  position: relative;
+  float: left;
+}
+ul                                  { list-style: none; }
+
+/* 
+    LEVEL ONE
+*/
+ul.dropdown                         { position: relative; }
+ul.dropdown li                      { border-right:1px solid black;padding: 7px 15px 3px 15px;font-size: 15px; float: left; zoom: 1; background: lightblue; }
+ul.dropdown li:last-child         { border-right: none; }
+ul.dropdown li.hover,
+ul.dropdown li:hover                { background: #F3D673; color: black; position: relative; }
+
+
+ul.dropdown ul                      { padding: 0px 0px 0px 0px;width: 220px; visibility: hidden; position: absolute; top: 100%; left: 0; }
+ul.dropdown ul li                   { font-weight: normal; background: #f6f6f6; color: #000; 
+                                      border-bottom: 1px solid #ccc; float: none; }
+/*for memory app*/
+img.mem_pic {
+  width: 150px;
+  height: 150px;
+
+}
+img.mem_txt{
+    width: 150px;
+  height: 150px;
+}
+.solved{
+      width: 150px;
+  height: 150px;
+  border: 1px solid green;
+
+}
+.tt{
+  opacity: 0.0;
+}

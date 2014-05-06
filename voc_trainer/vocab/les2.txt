@@ -1,0 +1,84 @@
+- v redu 			- in Ordnung
+- híšna števílka 			Hausnummer
+- telefónska števílka 			Telefonnummer
+adíjo 	Interjektion 		Tschüß
+Ávstrija (-e) 	Substantiv 	f 	Österreich
+bíti, je 	Verb, impf 		sein
+bôlj 	Adverb, Komparativ 		mehr
+dán (dnéva) 	Substantiv 	m 	Tag
+dóber, dôbra, dôbro 	Adjektiv 		gut
+- dóber dán 			- guten Tag
+dôbro 	Adverb 		gut
+- kàr dôbro 			- ziemlich gut
+držáva (-e) 	Substantiv 	f 	Staat
+Dúnaj (-a) 	Substantiv 	m 	Wien
+gospá (-e) 	Substantiv 	f 	Frau
+gospód (-a) 	Substantiv 	m 	Herr
+gospodíčna (-e) 	Substantiv 	f 	Fräulein
+híšni -a, -o 	Adjektiv 		Haus-
+hvála (-e) 	Substantiv 	f 	Dank
+imé (-ena) 	Substantiv 	n 	Name, Vorname
+iméti, imá 	Verb, impf 		haben
+ín 	Konjunktion 		und
+inženír (-ja) 	Substantiv 		Ingenieur
+íti, gré 	Verb, pf / impf 		gehen
+iz 	Präpositon + Gen. 		aus
+kakó 	Interrogativpronomen 		wie
+kàr 	Adverb 		ziemlich
+kràj , krája 	Substantiv 	m 	Ort
+kústosinja (-e) 	Substantiv 	f 	Kuratorin
+láhek -hka, -o 	Adjektiv 		leicht
+lép -a, -o 	Adjektiv 		schön
+léto (-a) 	Substantiv 	n 	Jahr
+mésto (-a) 	Substantiv 	n 	Stadt
+mój , môja, môje 	Possessivpronomen 		mein
+naslòv (-ôva) 	Substantiv 	m 	Adresse
+nasvídenje oder na svídenje 	Interjektion 		Auf Wiedersehen!
+natákar (-ja) 	Substantiv 	m 	Kellner
+Némčija (-e) 	Substantiv 	f 	Deutschland
+njén -a, -o 	Possessivpronomen 		ihr
+njún -a, -o 	Possessivpronomen 		ihr (beider)
+nóč (-i) 	Substantiv 	f 	Nacht
+novínar (-ja) 	Substantiv 	m 	Journalist
+obísk (-a) 	Substantiv 	m 	Besuch
+pѓvič 	Adverb 		das erste Mal
+pa 	Konjunktion 		und
+poklíc (-a) 	Substantiv 	m 	Beruf
+popeljáti, popélje 	Verb, pf 		führen, geleiten
+pozdràv (-a) 	Substantiv 	m 	Gruß, Begrüßung
+pozdrávljati, -a 	Verb, impf 		grüßen, begrüßen
+právnik (-a) 	Substantiv 	m 	Jurist
+Prévalje (ø) 	Substantiv 	Pl. f 	Ort in Slowenien
+prevèč 	Adverb 		allzu viel
+priímek (-mka) 	Substantiv 	m 	Nachname
+príti, príde 	Verb, pf 		kommen, gehen
+réd (-a) 	Substantiv 	m 	Ordnung
+sín (-a) 	Substantiv 	m 	Sohn
+slabó 	Adverb 		schlecht
+sónce (-a) 	Substantiv 	n 	Sonne
+sôsed (-a) 	Substantiv 	m 	Nachbar
+sošólec (-lca) 	Substantiv 	m 	Mitschüler
+spoštován -a, -o 	Adjektiv 		geehrt
+sréčati, -a 	Verb, pf 		treffen
+stàr , stára, stáro 	Adjektiv 		alt
+stárost (-i) 	Substantiv 	f 	Alter
+stríc (-a) 	Substantiv 	m 	Onkel
+súper 	Adverb 		super
+šólar (-ja) 	Substantiv 	m 	Schüler
+števílka (-e) 	Substantiv 	f 	Nummer
+takó 	Adverb 		so
+telefón (-a) 	Substantiv 	m 	Telefon
+telefonírati, -a + Dativ 	Verb, pf / impf 		anrufen
+telefónski -a, -o 	Adjektiv 		Telefon-
+túkaj 	Adverb 		hier
+učíteljica (-e) 	Substantiv 	f 	Lehrerin
+úlica (-e) 	Substantiv 	f 	Straße
+umétnik (-a) 	Substantiv 	m 	Künstler
+v 	Präposition 		in
+večér (-a) 	Substantiv 	m 	Abend
+vídeti, vídi 	Verb, pf / impf 		sehen
+z 	Präposition (+Gen) 		aus
+zdrávo 	Interjektion 		Hallo
+zeló 	Adverb 		sehr
+živéti, živí 	Verb, impf 		leben
+žívjo oder žívijo 	Interjektion 		Hallo

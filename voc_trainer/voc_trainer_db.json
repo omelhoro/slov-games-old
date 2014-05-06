@@ -1,0 +1,13 @@
+var db=
+{
+    "lek7": {
+        "jaz": "ich",
+        "jaza": "ichi"
+    },
+    "lek8": {
+        "ti": "du"
+    },
+    "lek3": {
+        "on": "er"
+    }
+}

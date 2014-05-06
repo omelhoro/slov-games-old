@@ -1,0 +1,64 @@
+﻿\subsection*{ZAKAJ SE NE BI PRAV ZDAJLE MALCE PRETEGNILI}
+Sedimo v \loc{pisarni}\footnote{Büro}, sedimo v \loc{šolskih klopeh}\footnote{bank}, sedimo v \loc{avtu}, sedimo pred
+\loc{televizorji}. Preveč sedimo! Tudi
+kadar delamo, uporahljamo stalno\footnote{beständig}
+iste gibe\footnote{Bewegung} in se le malo razgibamo.
+\nom{Posledica} \gen{tega} so \nom{bolečine} v \loc{vratni hrbtenici}, \nom{bolečine} med \ins{lopaticami}\footnote{Schulterblatt},
+v \loc{križu}\footnote{Kreuz}.
+Doma in v \loc{tujini} nam \nom{trg} ponuja\footnote{anbieten}
+\acc{številne čudežne pripomočke}\footnote{Hilfsmittel}, s
+\ins{katerimi} naj bi odpravili \que{bolečine} v
+\loc{hrbtenici}. \nom{Nekateri} pomagajo bolj,
+\nom{drugi} manj, \nom{nekateri} popolnoma nič,
+\nom{prodajalci} pa si zadovoljno manejo\footnote{???}
+\acc{roke}. 
+
+Zakaj prepuščate\footnote{überlassen} \acc{skrb}\footnote{Sorge} za \acc{svoje zdravje} \dat{drugim}? Vzemite \acc{jo} v \acc{svoje
+roke}! Edini \nom{način}\footnote{Art}, s \ins{katerim} lahko
+trajno vplivate na \acc{zmanjšanje} \gen{težav}
+s \ins{hrbtenico}, je \nom{redna, vsakodnevna
+telovadba}. Ne prestrašite se! \nom{To} niso
+\nom{hitre, težke vaje}, kakršne gledamo na
+\loc{televiziji}. Te so za \acc{športnike} in za
+\acc{mlade}. Za \acc{nas}, ki nismo ne \nom{športniki
+}ne zelo mladi, pa so \nom{primerne nežne
+vaje pretegovanja}\footnote{Strecken}. Pojdite v \acc{najbližji zdravstveni dom} in poiščite \acc{fizioterapevtko}.
+Pokazala \dat{vam} bo \acc{prave vaje}, prilagojene prav \dat{vašim težavam}.
+Pretegovali se boste kakor \nom{mačke}:
+dolgo, nežno, počasi, popolnoma
+brez \gen{bolečin}. Počutili se boste sproščeni\footnote{entspannt},
+postali boste gibčnejši, okrepili
+si \acc{hoste mišice}\footnote{hoste ???}, izboljšala\footnote{verbessern} se bo
+\nom{prckrvavitev}\footnote{Durchblutung} \acc{vseh tkiv}\footnote{Gewebe} ob \loc{hrbtenici}.
+In če se boste pretegovali vsak dan,
+boste za \acc{svoje zdravje} naredili več,
+kot če bi uporahili \nom{vse medicinske} in
+\nom{paramedicinske čudežne pripomočke}.
+Pa še: \nom{pretegovanje} nič ne
+stane! Le malo dobre volje in 15
+\gen{minut} \gen{časa} na \acc{dan}. Se \dat{vam} zdi to
+veliko? Vredno je! Poizkusite!
+
+
+\subsection*{VIDOV ANGEL Peter Svetina (1970)}
+>>Si sam? Imaš \acc{koga} od \que{staršev} s \ins{sabo}?« je prijazno vprašal \nom{zdravnik}.
+Vid je ležal na \loc{bolniški postelji}. \acc{Desno nogo} je imel do \que{kolena} v
+\loc{mavcu}.
+
+>>Ja, \nom{oče} je zunaj,« je odgovoril \nom{Vid}.
+>>Kar naprej, gospod Silan.« \nom{Zdravnik} je odstopil od \gen{vrat} in \acc{jih} zaprl za
+\dat{očetom}. "Nič \gen{hudega} ne bo. \nom{Fant} ima \acc{zvito nogo}, en teden naj počiva.«
+\nom{Oče} je samo molče prikima.
+
+>>Ampak je še nekaj. Zato sem \acc{vas} poklical noter, da ne bi razlagal
+pred drugimi na \loc{hodniku}. Tule, poglejte,« \nom{zdravnik} je dvignil
+\acc{rentgensko sliko} proti \dat{luči} in pokazal \acc{neko črno piko} na \loc{kosti}, "tule je
+\nom{neko nezakostenelo tkivo}. Ko bo mavec z \ins{noge}, bi \acc{fanta} poslali na
+\acc{Inštitut} za \que{rakasta obolenja}, da vzamejo vzorec \gen{tkiva}. Verjetno ni nič
+\gen{narobe}, ampak za \acc{vsak primer} bi le opravili še ta \acc{pregled}. Pa, prosim,
+res se ne vznemirjajte.« \nom{Doktor} je videl, da se je \nom{oče} zdrznil, ko je
+zaslišal, kam pošiljajo \acc{Vida}. »Gre samo za \acc{preventivni pregled}, da
+izključim \acc{vsako možno}.
+
+Ko sta \nom{oče} in \nom{Vid} odhajala iz \gen{ordinacije}, je \nom{doktor} \gen{Vida} potrepljal po
+\acc{rami}: "Korajžen pa si, fant! No, saj se čez \acc{en teden} vidimo. Adijo.«

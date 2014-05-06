@@ -1,0 +1,38 @@
+branjevka, -e 	Substantiv 	f 	Markthändlerin / Gemüsefrau
+češnja, -e 	Substantiv 	f 	Kirsche
+fižol, -a 	Substantiv, Sg 	m 	Bohne
+grozdje, -a 	Substantiv, Sg 	n 	Weintrauben
+hruška, -e 	Substantiv 	f 	Birne
+jabolko, -a 	Substantiv 	n 	Apfel
+jagoda, -e 	Substantiv 	f 	Erdbeere
+jogurt, -a 	Substantiv 	m 	Jogurt
+joj 	Interjektion 		oh
+kaj (česa) 	Pronomen 		etwas
+kila, -e 	Substantiv 	f 	Kilogramm (umgspr.)
+kilogram, -a 	Substantiv 	m 	Kilogramm
+kivi, -ja 	Substantiv 	m 	Kiwi
+koliko 	Interrogativpronomen 		wieviel, wie viele
+korenje, -a 	Substantiv, Sg 	n 	Karotte
+krompir, -ja 	Substantiv, Sg 	m 	Kartoffel
+kruh, -a 	Substantiv, Sg 	m 	Brot
+liter, litra 	Substantiv 	m 	Liter
+lubenica, -e 	Substantiv 	f 	Wassermelone
+mandarina, -e 	Substantiv 	f 	Mandarine
+marelica, -e 	Substantiv 	f 	Aprikose
+mleko, -a 	Substantiv, Sg 	n 	Milch
+paprika, -e 	Substantiv 	f 	Paprika
+paradižnik, -a 	Substantiv 	m 	Tomate
+peteršilj, -a 	Substantiv, Sg 	m 	Petersilie
+pomaranča, -e 	Substantiv 	f 	Orange
+prodajalka, -e 	Substantiv 	f 	Verkäuferin
+sadje, -a 	Substantiv, Sg 	n 	Obst
+sliva, -e 	Substantiv 	f 	Pflaume
+solata, -e 	Substantiv 	f 	Salat
+škoda 	Interjektion 		schade
+špinača, -e 	Substantiv, Sg 	f 	Spinat
+takole 	Adverb 		so
+tržnica, -e 	Substantiv 	f 	Markt
+več 	Adverb 		mehr
+zelje, -a 	Substantiv, Sg 	n 	Kohl
+žal 	Adverb 		leider
+želeti, -i 	Verb, imp 		wünschen

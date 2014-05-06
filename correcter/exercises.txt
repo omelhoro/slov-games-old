@@ -1,0 +1,540 @@
+s_exercises,les3
+Topic:adj,Textverständnis
+tsk_exp: Bitte ergänzen Sie den Text mit den rechts vorgegebenen Wörtern. | Dopolnite besedilo z danimi besedami. 
+__
+lst:rjava,debele,rdeča,velika,stare,lepa,veliko,rumen,tanke
+To je moja soba. Je _velika . 
+Na levi je _rjava omara, na desni sta stol in miza.
+Miza je _velika . 
+Stol je _rumen. Zgoraj so police. 	
+Police so _stare . Tam so okno, rože in knjige.
+Knjige so _stare .
+Okno je _veliko .
+Moja soba je _lepa . Kakšna pa je tvoja soba?
+
+Topic:adj,Wortschatz
+tsk_exp:Ergänzen Sie nachfolgenden Text mit den Adjektiven aus dem Kasten.|Dopolnite spodnje stavke s pridevniki iz okvirčka!
+__
+lst:lepa,velike,poln,prazen,stara,kitajska
+Ljubljana je _lepa,stara .
+Hiše so _velike .
+Prešernov trg je _poln,prazen .
+Gornji trg je _poln,prazen .
+Mestna hiša in Stari trg sta _lepa,stara .
+Restavracija je _kitajska .
+
+Topic:pron,Possesivpronomen
+tsk_exp:Bitte setzen Sie das Possesivpronomen der in Klammern angegebenen Person ein.|Vstavite prosim ustrezno obliko svojilnega zaimka.
+__
+Moja soba je lepa. Kakšna pa je _tvoja soba?
+Naša hiša je stara. Kakšna pa je _vaša (vi) hiša?
+ _Moja (jaz) telefonska številka je 01 2526 579.
+ _Najino (midva) stanovanje je majhno.
+Kakšno pa je _vajino (vidva) stanovanje?
+ _Njen (ona) naslov je Kaiser-Friedrich-Ufer 8, Hamburg.
+ _Njihove (oni) rože so zelene.
+Kakšne pa so _tvoje (ti) rože?
+Naše (mi) mesto je staro.
+Kakšno pa je _vaše (vi) mesto?
+ _Njegove (on) knjige so zanimive.
+Kakšne pa so _njune (onadva) knjige?
+
+Topic:mix,Diktat
+tsk_exp: Not found.|Napišite stavke, ki jih slišite.
+__
+ au_So _To_je_moja_soba .
+ au_So _Je_velika_in_prostorna .
+ au_So _Na_levi_je_bela_moderna_omara .
+ au_So _Miza_je_rjava .
+ au_So _Stol_je_rumen .
+ au_So _Zgoraj_so_police .
+ au_So _Police_so_tanke .
+ au_So _Knjige_so_stare .
+ au_So _Okno_je_veliko .
+ au_So _Moja_soba_je_lepa .
+ au_So _Kakšna_pa_je_tvoja_soba .
+
+s_exercises,les4
+Topic:verb,Wortschatz
+tsk_exp:Was machen Sie? Ergänzen Sie den Dialog mit dem Verben aus dem Kasten.|Kaj delate? Dopolnite dialog z glagoli iz okvirčka.
+__
+lst:brati,študirati,zajtrkovati,vstati,zabavati se
+Zjutraj _vstanem .
+Potem _zajtrkujem .
+Dopoldne _berem,študiram .
+Popoldne _berem,študiram .
+Zvečer _se zabavam .
+
+Topic:verb,Infinitiv
+tsk_exp:Wie lautet der Infinitv zu den angegebenen Verbformen?|Kako se glasijo nedoločniki?
+__
+File:0|les4_verb_inf.html
+
+s_exercises,les5
+Topic:noun,Akk1
+tsk_exp:Was wünschen Sie?|Kaj želite?
+__
+File:0|les5_noun_acc1.html
+
+Topic:noun,Akk2
+tsk_exp:Schreiben Sie die Akkusativformen der Substantive auf. Beachten Sie dabei den Numerus.|Samostalnikom poiščite ustrezno obliko v 4. sklonu. Pazite na ustrezno število!
+__
+File:0|les5_noun_acc2.html
+
+s_exercises,les6
+Topic:noun,Akk
+tsk_exp:Antworten Sie bitte.|Odgovorite prosim.
+__
+<p>
+Kam gre Petra?
+V _galerijo (galerija).
+</p><p>
+Kam gresta?
+Greva v _kuhinjo (kuhinja).
+</p><p>
+Kam greš?
+Grem po _špagete (špaget, Pl).
+</p><p>
+Kam gredo?
+Na _Kongresni_trg (Kongresni trg).
+</p><p>
+Kdaj imaš nemščino?
+V _ponedeljek (ponedeljek).
+</p><p>
+Kam gresta?
+Greva v _bar (bar).
+</p><p>
+Kam greste?
+Gremo na _kavo (kava).
+</p><p>
+Kam greš?
+Grem po _časopis (časopis).
+</p><p>
+Za koga je časopis?
+Za _mamo (mama).
+</p><p>
+Kdaj imaš slovenščino?
+Čez _eno_uro (ena ura).
+</p>
+
+Topic:adj,Akk
+tsk_exp:Setzen Sie die Adjektiv-Substantiv-Verbindungen in den Akkusativ.|Pridevnike in samostalnike postavite v tožilnik.
+__
+File:0|les6_adj_acc.html
+
+Topic:prep,
+tsk_exp:Ergänzen Sie im Text die fehlenden Präpositionen.|V besedilo vstavite manjkajoče predloge.
+__
+Kaj dela Veronika?
+
+Veronika gre _v kuhinjo in pripravi zajtrk.
+ _Za zajtrk ponavadi je črn kruh.
+Nato se odpravi _na filozofsko fakulteto.
+Popoldne gre _v trgovino.
+Gre _po špagete.
+ _V ponedeljek ima nemščino.
+ _Pred nemščino ima še čas.
+Veronika in njena prijateljica gresta _na kavo.
+Avto parkira _za,pred galerijo.
+Postavi ga _med dva avtomobila.
+Veronika se postavi _pred galerijo.
+Počaka _na prijateljico.
+Skupaj gresta _čez Ljubljanico.
+Turistična ladjica zapelje _pod most.
+ _Nad Ljubljano se spustijo oblaki.
+ _Čez eno uro ima Veronika nemščino.
+ _Za večerjo je zrezek in pečen krompir.
+Nikoli ne gre zgodaj _v posteljo.
+
+s_exercises,les7
+Topic:pron,Akk
+tsk_exp:Setzen Sie die richtige Form vom Personalpronomen ein.|Dušica sprašuje. Vstavite ustrezno obliko osebnega zaimka v tožilniku.
+__
+Iskat  _jih  (oni)  gremo na avtobusno postajo.  
+Iskat  _te (ti)  gremo na avtobusno postajo.  
+Iskat  _vas (vi)  gremo na avtobusno postajo.  
+Iskat  _jih (oni)  gremo na avtobusno postajo.  
+Iskat  _ga (on)  gremo na avtobusno postajo.  
+Iskat  _vaju (vedve)  gremo na avtobusno postajo.  
+Iskat  _jo (ona)  gremo na avtobusno postajo.  
+Iskat  _ju (onidve)  gremo na avtobusno postajo.  
+Iskat  _vaju (vidva)  gremo na avtobusno postajo.  
+Iskat  _jih (one)  gremo na avtobusno postajo.
+
+Topic:pron,Akk1
+tsk_exp:Setzen Sie die richtige Form des Personalpronomens ein.|Vstavite ustrezno obliko osebnega zaimka.
+__
+(Boris) Kaj misliš, naj _ga povabimo?
+(Urška) Kaj misliš, naj _jo povabimo?
+(Mira in Pavel) Kaj misliš, naj _ju povabimo?
+(Martin) Kaj misliš, naj _ga povabimo?
+(stari starši) Kaj misliš, naj _jih povabimo?
+(Marjana) Kaj misliš, naj _jo povabimo?
+
+s_exercises,les8
+Topic:noun,Lokativ
+tsk_exp:Ein Tourist in Ljubljana|Turist v Ljubljani
+__
+lst:Filharmonija,magistrat,park,frančiškanska cerkev,lekarna,reka Ljubljanci,Stari trg
+<p>
+Turist: 	Dober dan, oprostite, kje je tukaj blizu bankomat? </br> Gospa: 	Bankomat je na levi, pri _Filharmoniji .
+</p><p>
+Turist: 	Dober dan, oprostite, kje je tukaj blizu bankomat? </br> Gospa: 	Bankomat je na levi, pri _magistratu .
+</p><p>
+Turist: 	Dober dan, oprostite, kje je tukaj blizu bankomat? </br> Gospa: 	Bankomat je na desni, pri _parku .
+</p><p>
+Turist: 	Dober dan, oprostite, kje je tukaj blizu bankomat? </br> Gospa: 	Bankomat je spodaj, ob _frančiškanski_cerkvi .
+</p><p>
+Turist: 	Dober dan, oprostite, kje je tukaj blizu bankomat? </br> Gospa: 	Bankomat je na desni, ob _lekarni .
+</p><p>
+Turist: 	Dober dan, oprostite, kje je tukaj blizu bankomat? </br> Gospa: 	Bankomat je tam, pri _reki_Ljubljanici .
+</p><p>
+Turist: 	Dober dan, oprostite, kje je tukaj blizu bankomat? </br> Gospa: 	Bankomat je na desni, na _Starem_trgu .
+</p>
+
+Topic:prep,Lokativ
+tsk_exp:Ergänzen Sie die fehlenden Präpositionen.|Vstavite ustrezne predloge.
+__
+Čevlji so _v omari.
+Trgovina je  _na levi strani.
+Pulover je  _v predalu.
+Pogovarjamo se _o Sloveniji.
+Turist hodi _po ulici.
+Bankomat je _pri kiosku.
+ _Po počitnicah se začne šola.
+Spomenik je _na desni strani.
+ _Ob ponedeljkih imamo slovenščino.
+Turisti hodijo  fail po mestu.
+
+Topic:adj,Lokativ
+tsk_exp:Setzen Sie die Adjektive in der richtigen Form ein.|Vstavite pravilne oblike pridevnikov.
+__
+Puloverji so v _veliki omari.
+Trgovina je na _levi (lev) strani.
+Turist hodi po _dolgi (dolg) ulici.
+Bankomat je pri _rdečem (rdeč) kiosku.
+Po _poletnih (poleten) počitnicah se začne šola.
+Spomenik je na _desni (desen) strani.
+Turisti hodijo po _starem (star) mestu.
+
+
+s_exercises,les9
+Topic:verb,Perfekt
+tsk_exp:Was hat Anna gemacht? Verwenden Sie die Verben aus dem Kasten in der angegebenen Reihenfolge.|Kaj je delala Anna? Uporabite glagole iz okvirčka na desni strani.
+__
+lst:biti,iti,videti,preživeti,iti
+1) Anna _je_bila na obisku pri babici in dedku. 	
+2) Anna _je_šla na izlet. 	
+3) Na izletu _je_videla znamenitosti. 	
+4) Dva tedna _je_preživela v Ljubljani. 	
+5) Včasih _je_šla na kavo.
+
+Topic:pron,Lokativ
+tsk_exp:Beantworten Sie die Fragen. Setzen Sie die richtige Form vom Personalpronomen ein.|Odgovorite. Osebne zaimke postavite v pravilen sklon.
+__
+<p>
+Kje je Petra?
+Petra je pri _meni (jaz).
+</p><p>
+Kje sta Andrej in Barbara?
+Andrej in Barbara sta pri _nas (mi).
+</p><p>
+O kom se pogovarjate?
+Pogovarjamo se o _vaju (vidva).
+</p><p>
+Pri kom stanuješ?
+Stanujem pri _njih (oni).
+</p><p>
+O kom premišljuješ?
+Premišljujem o _tebi (ti).
+</p>
+
+s_exercises,les10
+Topic:noun,Genitiv
+tsk_exp:Verändern Sie das Subjekt beim verneinten Verb biti.|Spremenite subjekt ob zanikanem glagolu biti.
+__
+Andreja je tukaj. – _Andreje ni tukaj.
+Boštjan je doma. – _Boštjana ni doma.
+Babica je na obisku. – _Babice ni na obisku.
+Sestra je v kuhinji. – _Sestre ni v kuhinji.
+Oče je v dnevni sobi. – _Očeta ni v dnevni sobi.
+Knjiga je na polici. – _Knjige ni na polici.
+Starši so doma. – _Staršev ni doma.
+Obleka je v omari. – _Obleke ni v omari.
+Mateja je pri teti. – _Mateje ni pri teti.
+Mama je doma. – _Mame ni doma.
+
+s_exercises,les11
+Topic:noun,Akk/Gen
+tsk_exp:Bitte ergänzen Sie die Antworten.|Dopolnite odgovore.
+__
+<p>
+Anna: Imate mandarine?
+Branjevka: Ja, _mandarine pa imam. 
+Koliko _mandarin želite?
+</p><p>
+Anna: Imate marelice?
+Branjevka: Ja, _marelice pa imam. 
+Koliko _marelic želite?
+</p><p>
+Anna: Imate slive?
+Branjevka: Ja, _slive pa imam. 
+Koliko _sliv želite?
+</p><p>
+Anna: Imate krompir?
+Branjevka: Ja, _krompir pa imam. 
+Koliko _krompirja želite?
+</p><p>
+Anna: Imate špinačo?
+Branjevka: Ja, _špinačo pa imam. 
+Koliko _špinače želite?
+</p><p>
+Anna: Imate jagode?
+Branjevka: Ja, _jagode pa imam. 
+Koliko _jagod želite?
+</p><p>
+Anna: Imate papriko?
+Branjevka: Ja, _papriko pa imam. 
+Koliko _paprike želite?
+</p><p>
+Anna: Imate fižol?
+Branjevka: Ja, _fižol pa imam. 
+Koliko _fižola želite?
+</p><p>
+Anna: Imate peteršilj?
+Branjevka: Ja, _peteršilj pa imam. 
+Koliko _peteršilja želite?
+</p><p>
+Anna: Imate hruške?
+Branjevka: Ja, _hruške pa imam. 
+Koliko _hrušk želite?
+</p><p>
+Anna: Imate grozdje?
+Branjevka: Ja, _grozdje pa imam. 
+Koliko _grozdja želite?
+</p>
+
+Topic:noun,Akk
+tsk_exp:Setzen Sie die entsprechenden Wörter ein.|Na prazna mesta vstavite ustrezne besede.
+__
+<p>
+Anna: Dober dan, imate rdeče pomaranče ?
+Branjevka: Joj, _rdečih_pomaranč pa nimam, žal.
+</p><p>
+Anna: Dober dan, imate _zrele_banane ?
+Branjevka: Joj,zrelih banan pa nimam, žal.
+</p><p>
+Anna: Dober dan, imate _štajerska_jabolka ?
+Branjevka: Joj,štajerskih jabolk pa nimam, žal.
+</p><p>
+Anna: Dober dan, imate _primorski_paradižnik ?
+Branjevka: Joj,primorskega paradižnika pa nimam, žal.
+</p><p>
+Anna: Dober dan, imate _mlado_solato ?
+Branjevka: Joj, mlade solate pa nimam, žal.
+</p><p>
+Anna: Dober dan, imate _sladek_kivi ?
+Branjevka: Joj, sladkega kivija pa nimam, žal.
+</p><p>
+Anna: Dober dan, imate _kislo_zelje ?
+Branjevka: Joj, kislega zelja pa nimam, žal.
+</p><p>
+Anna: Dober dan, imate _črne_češnje ?
+Branjevka: Joj, črnih češenj pa nimam, žal.
+</p><p>
+Anna: Dober dan, imate _makedonske_lubenice ?
+Branjevka: Joj, makedonskih lubenic pa nimam, žal.
+</p><p>
+Anna: Dober dan, imate _mlado_korenje ?
+Branjevka: Joj, mladega korenja pa nimam, žal.
+</p>
+
+s_exercises,les13
+Topic:verb,Futur
+tsk_exp:Was wird Veronika morgen machen?|Kaj bo jutri delala Veronika?
+__
+<p>
+Nato bere nov časopis.
+Nato _bo_brala nov časopis.
+</p><p>
+Potem gre v kuhinjo.
+Potem _bo_šla v kuhinjo.
+</p><p>
+Za zajtrk je črn kruh.
+Za zajtrk _bo_jedla črn kruh.
+</p><p>
+Nato se odpravi na fakulteto.
+Nato se _bo_odpravila na fakulteto.
+</p><p>
+Tam posluša profesorje.
+Tam _bo_poslušala profesorje.
+</p><p>
+Popoldne gre domov.
+Popoldne _bo_šla domov.
+</p><p>
+Spotoma kupi špagete.
+Spotoma _bo_kupila špagete.
+</p><p>
+Avto parkira za galerijo.
+Avto _bo_parkirala za galerijo.
+</p><p>
+Zvečer ima nemščino.
+Zvečer _bo_imela nemščino.
+</p><p>
+Potem se vrne domov.
+Potem se _bo_vrnila domov.
+</p><p>
+Za večerjo je zrezek in krompir.
+Za večerjo _bo_jedla zrezek in krompir
+</p><p>
+Ne gre zgodaj v posteljo.
+Ne _bo_šla zgodaj v posteljo.
+</p>
+
+s_exercises,les14
+Topic:adj,Steigerung2
+tsk_exp:Setzen Sie die richtige Form des Adjektivs ein.|Vstavite ustrezno obliko pridevnika.
+__
+Slovenija je _majhna država. (majhen)
+Ljubljana je _največje slovensko mesto. (velik)
+Slovenija je pokrajinsko _zanimivejša od Nemčije. (zanimiv)
+Triglav je _najvišji vrh slovenskih Alp. (visok)
+Triglav je _nižji od Zugspitze. (nizek)
+Jadransko morje je _bolj_modro od Severnega morja. (moder)
+Slovenija je ena izmed _najmlajših evropskih držav. (mlad)
+ _Najstarejši slovenski mesti sta Kamnik in Kranj. (star)
+Berlin je _večji od Ljubljane. (velik)
+
+Topic:adj,Steigerung1
+tsk_exp:Bitte vervollständigen Sie das Paradigma nach dem gegebenen Beispiel.|Prosim, dopolnite razpredelnico, kot kaže primer.
+__
+File:les14_adj_scalar.html
+
+s_exercises,les15
+Topic:verb,Imperativ
+tsk_exp:Bilden Sie Imperativ (2. Person Singular).|Tvorite velelnik (2. oseba ednine).
+__
+File:les15_imp1.html
+
+Topic:verb,Verbalklasse
+tsk_exp:Vervollständigen Sie die Tabelle mit dem Präsensstamm, der Verbalklasse sowie dem Imperativ.|Dopolnite tabelo s sedanjiško osnovo, glagolsko skupino in velelnikom.
+__
+File:les15_verb_class.html
+
+s_exercises,les16
+Topic:noun,Dativ
+tsk_exp:Setzen Sie die Substantive und Adjektive in der richtigen Form ein.|Samostalnike in pridevnike v oklepaju postavite v pravilen sklon.
+___
+ _Študentom (študenti) se slovenski jezik zdi težek.
+ _Študentkam (Študentke) se slovenski jezik zdi težek. 
+ _Erwinu_Köstlerju (Erwin Köstler) je bila slovenščina všeč. 
+ _Nemškim_bralcem (Nemški bralci) je želel ponuditi slovensko literaturo.
+Erwin Köstler se posveča (Ivan Cankar) _Ivanu_Cankarju . 
+ _Nemškim_bralcem (Nemški bralci) predstavlja slovensko literaturo.
+Zaupal je (svoje znanje) _svojemu_znanju .
+Številne ustanove so (Erwin Köstler) _Erwinu_Köstlerju podelile nagrade.
+
+s_exercises,les16
+Topic:mix,
+tsk_exp:Setzen Sie die Substantive und Adjektive in der richtigen Form ein.|Samostalnike in pridevnike v oklepajih postavite v pravilen sklon.
+__
+Sebastijan Pregelj je pisatelj, ki živi in dela v _Ljubljani (Ljubljana).
+Sebastijan rad potuje in spoznava _nove_ljudi (novi ljudje).
+Sebastijan Pregelj je študiral _zgodovino (zgodovina).
+Že v _osnovni_šoli (osnovna šola) se je ukvarjal s pisanjem.
+Ideje za _svoje_zgodbe (svoje zgodbe) dobiva doma.
+Tudi na _dobrih_koncertih (dobri koncerti) obiva ideje.
+Sebastijan ima rad _Ljubljano (Ljubljana).
+Meni, da ima Ljubljana _odlično_lego (odlična lega).
+Ljubljana je blizu _morja (morje).
+Leži skoraj pod _Alpami (Alpe).
+Sebastijan doživlja Ljubljano kot stičišče _kultur (kultura, Pl.).
+Njegov roman se dogaja prav v _Ljubljani (Ljubljana).
+
+s_exercises,les17
+Topic:noun,
+tsk_exp:Bitte ergänzen Sie den Text mit den rechts vorgegebenen Wörtern in der richtigen Form.|Iz okvirčka poiščite besede in jih postavite v pravilno obliko na manjkajoča mesta.
+__
+lst:hotel,galerija,stran,pristanišče,Italijan,festival,morje,izlet,kilometer,tradicija,hiša,Koper,Piran
+Danes se bomo odpravili na _izlet .
+Ob 	_morju 	so majhna mesta.
+Tu živijo Slovenci in _Italijani .
+V _Kopru živi 24.000 prebivalcev.
+Od Trsta je oddaljen 19 _kilometrov .
+V _pristanišču,Kopru so vedno ladje in mornarji.
+Oglejte si razstavo v _galeriji,muzeju 	.
+Poleti v mestu organizirajo _festival .
+Piran ima stare _hiše,hotele .
+Največja znamenitost _Pirana,mesta 	je Tartinijev trg.
+Izola ima zelo dolgo ribiško _tradicijo .
+V Portorožu je največ _hotelov .
+Vse kraje si lahko ogledate na spletni _strani : http://www.slovenia.info/?green_mediterranean=0&lng=1
+
+Topic:mix,
+tsk_exp:Fehlt auf der Seite|Fehlt auf der Seite
+__
+Danes se bomo odpravili na morje. – _Kam se boste odpravili danes?
+Slovenija leži ob morju. _Kje,kje leži Slovenija?
+Tu živijo Slovenci in Italijani. _Kdo,kdo živi tu?
+
+Koper ima veliko pristanišče. _Kaj,kaj ima Koper?
+V mestu živi 24.000 prebivalcev. _Koliko,koliko prebivalcev živi v mestu?
+Piran je staro mesto. _Kakšno,kakšno mesto je Piran?
+V avgustu vsako leto ima Izola ribiški praznik. _Kdaj,kdaj ima Izola ribiški praznik?
+Blizu Portoroža so Sečoveljske soline. _Kje,kje so Sečoveljske soline?
+Portorož je mesto zabave. _Kakšno,kakšno mesto je Portorož?
+
+Topic:noun,
+tsk_exp:Setzen Sie die Substantive in der richtigen Form ein.|Vstavite pravilne oblike samostalnikov!
+__
+Danes se bomo odpravili na _izlet (izlet) na jugozahod Slovenije, na morje.
+46 _kilometrov (kilometer) Slovenije leži ob morju.
+Tu so majhna _mesta (mesto) : Koper, Izola, Piran in Portorož.
+V _pristanišču (pristanišče) so vedno ladje in mornarji.
+Privoščite si ribjo _malico (malica) v najbližji gostilni.
+Sveže _informacije (informacija) dobite v turističnem centru.
+Oglejte si razstavo v galeriji ali v _muzeju (muzej).
+Pojdite na sprehod po _parku (park).
+Uživajte ob _kavi (kava) na terasi hotela.
+Največja znamenitost _Pirana (Piran) je Tartinijev trg.
+Tudi Izola je staro _mesto (mesto).
+Ima zelo dolgo ribiško _tradicijo (tradicija).
+Tu je največ _hotelov (hotel) in restavracij.
+
+Topic:adj,
+tsk_exp:Setzen Sie die Adjektive in der richtigen Form ein.|Vstavite pravilne oblike pridevnikov!
+__
+Tu so _majhna (majhen) mesta: Koper, Izola, Piran in Portorož.
+Ta mesta imajo tudi _italijanska (italijanski) imena.
+Koper je največje _obalno (obalni) mesto.
+Mesto je od Trsta _oddaljeno (oddaljen) 19 kilometrov.
+Po potepanju po pristanišču boste gotovo postali _lačni (lačen).
+Privoščite si _ribjo (ribji) malico v najbližji gostilni.
+Sveže informacije dobite v _turističnem (turistični) centru.
+Piran je staro _pristaniško (pristaniški) mesto.
+Ima ozke ulice in _stare (star) hiše.
+Tu je bilo pristanišče še v _starih (star) rimskih časih.
+Na tržnici si lahko kupite sadje, zelenjavo in _sveže (svež) ribe.
+Portorož ima tudi _peščeno (peščen) plažo.
+
+Topic:adj,Steigerung
+tsk_exp:Bilden Sie den Superlativ von den in den Klammern stehenden Adjektiven.|Vstavite pridevnike v presežniku!
+__
+Koper je _največje (velik) obalno mesto.
+Privoščite si ribjo malico v _najbližji (blizek) gostilni.
+Mesto ima _največjo (velik) katedralo v Sloveniji.
+ _Največja,največja (velik) znamenitost Pirana je Tartinijev trg.
+ _Najstarejši,najstarejši (star) del Izole leži na otoku.
+Portorož ima _najdaljšo (dolg) turistično tradicijo.
+Kateri kraj je _najlepši (lep)?
+
+Topic:pron,
+tsk_exp:Setzen Sie die Personalpronomen in der richtigen Form ein.|Vstavite zaimke v pravilni obliki.
+__
+Danes se bomo odpravili v Koper. Pridite!
+V mestu živi 24.000 prebivalcev. Od _njih (oni) je veliko Slovencev in Italijanov.
+Oglejte si razstavo v galeriji ali v muzeju. Oglejte si _jo (ona) !
+V mestu je festival. Na _njem (on) lahko poslušate glasbo.
+Tam si lahko privoščite pizzo. Po _njej (ona) pa dober sladoled.
+Imate radi sadje? Kupili _ga (on) boste na tržnici.
+Zvedeli boste vse o ribah in ribičih. – Zvedeli boste vse o _njih (oni).

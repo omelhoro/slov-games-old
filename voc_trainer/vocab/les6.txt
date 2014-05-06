@@ -1,0 +1,89 @@
+mlád, -a, -o 	Adjektiv 		jung
+dólgo 	Adverb 		lange
+délaven, -vna, -o 	Adjektiv 		fleißig
+pámeten, -tna, -o 	Adjektiv 		klug
+- béla káva 			- Cafe au lait
+- gledati televizijo, gleda televizijo 			- fernsehen
+- iti po xy 			- xy holen
+- pečen krompir 			- Ofenkartoffel
+avtomobíl (-a) 	Substantiv 	m 	Auto (im Dual und Plural anstelle von avto gebraucht)
+časopís (-a) 	Substantiv 	m 	Zeitung
+čez 	Präposition
+(+ Akk) 		über, in (temporal)
+da 	Konjunktion 		um ... zu
+deževáti, dežúje 	Verb, impf 		regnen
+domôv 	Adverb 		nach Hause
+fakultéta (-e) 	Substantiv 	f 	Fakultät
+filozófski, -a, -o 	Adjektiv 		philosophisch
+hítro 	Adverb 		schnell
+informácija (-e) 	Substantiv 	f 	Information
+káva (-e) 	Substantiv 	f 	Kaffee
+kosílo (-a) 	Substantiv 	n 	Mittagessen
+krompír (-ja) 	Substantiv 	m 	Kartoffel
+krùh (krúha) 	Substantiv/Sg 	m 	Brot
+kúhinja (-e) 	Substantiv 	f 	Küche
+ládjica (-e) 	Substantiv/Diminutiv 	f 	Boot
+limonáda (-e) 	Substantiv 	f 	Zitronenlimonade
+Ljubljánica (-e) 	Substantiv 	f 	Fluß durch Ljubljana
+marmeláda (-e) 	Substantiv 	f 	Marmelade
+máslo (-a) 	Substantiv 	n 	Butter
+móst (-ú) 	Substantiv 	m 	Brücke
+na 	Präposition
+(+ Akk) 		auf, an
+nad 	Präposition
+(+ Akk) 		über
+nemščina (-e) 	Substantiv 	f 	Deutsch
+oblak (-a) 	Substantiv 	m 	Wolke
+odpraviti se, -i se 	Verb, pf 		sich auf den Weg machen
+omaka (-e) 	Substantiv 	f 	Soße
+parkirati, -a 	Verb, pf / impf 		parken
+pečen, -a, -o 	Adjektiv 		gebraten, Ofen-
+piti, pije 	Verb, impf 		trinken
+po 	Präposition
+(+ Akk) 		auf, herum
+počakati, -a 	Verb, pf 		warten
+pod 	Präposition
+(+ Akk) 		unter
+poklicati, pokliče 	Verb, pf 		rufen
+ponavadi 	Adverb 		gewöhnlich
+ponedeljek (-ljka) 	Substantiv 	m 	Montag
+poslušati, -a 	Verb, impf 		hören
+postaviti (se), -i (se) 	Verb, pf 		(sich) stellen
+postelja (-e) 	Substantiv 	f 	Bett
+pozimi 	Adverb 		im Winter
+pred 	Präposition
+(+ Akk) 		vor
+prijatelj (-a) 	Substantiv 	m 	Freund
+prijateljica (-e) 	Substantiv 	f 	Freundin
+pripraviti, -i 	Verb, pf 		zubereiten, vorbereiten
+prostor (-a) 	Substantiv 	m 	Platz
+ravno 	Adverb 		gerade
+sam, -a, -o 	Pronomen 		er, sie, es selbst
+skupaj 	Adverb 		zusammen
+slavistika (-e) 	Substantiv 	f 	Slawistik
+spotoma 	Adverb 		unterwegs
+spretno 	Adverb 		geschickt
+svež, -a, -e 	Adjektiv 		frisch
+še 	Adverb 		noch
+tam 	Adverb 		dort
+televizija (-e) 	Substantiv 	f 	Fernsehen
+turistični, -a, -o 	Adjektiv 		Tourist-
+ura (-e) 	Substantiv 	f 	Stunde
+utrújen, -a, -o 	Adjektiv 		müde
+v 	Präposition
+(+ Akk) 		in
+včasih 	Adverb 		manchmal
+večerja (-e) 	Substantiv 	f 	Abendessen
+vendar 	Konjunktion 		aber
+vitamin (-a) 	Substantiv 	m 	Vitamin
+vrniti se, vrne se 	Verb, pf 		zurückkehren
+za 	Präposition
+(+ Akk) 		für, hinter
+začeti, začne 	Verb, pf 		anfangen
+zajtrk (-a) 	Substantiv 	m 	Frühstück
+zapeljati, zapelje 	Verb, pf 		fahren
+zaspan, -a, -o 	Adjektiv 		schläfrig
+zdrav, -a, -o 	Adjektiv 		gesund
+zgodaj 	Adverb 		früh
+zrézek (-zka) 	Substantiv 	m 	Schnitzel
+zvédeti, zvé 	Verb, pf 		erfahren
