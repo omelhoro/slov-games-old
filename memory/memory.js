@@ -203,9 +203,7 @@ $(function() {
 
   })();
   return $.getJSON("memory/pics_map.json", function(data) {
-    var s, table;
-    s = new SVGCard("jkldjsfdsf");
-    $("#wrap").append(s.svg);
+    var table;
     return table = new TableView(data);
   });
 });

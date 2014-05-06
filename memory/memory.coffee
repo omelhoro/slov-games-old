@@ -129,8 +129,8 @@ $ ->
 				)
 
 	$.getJSON("memory/pics_map.json", (data) ->
-		s= new SVGCard("jkldjsfdsf")
-		$("#wrap").append(s.svg)
+		#s= new SVGCard("jkldjsfdsf")
+		#$("#wrap").append(s.svg)
 
 		table= new TableView(data)
 		)
